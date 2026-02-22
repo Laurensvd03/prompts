@@ -26,11 +26,14 @@ If evidence is conflicting, note the discrepancy.
 Keep the final answer concise but complete.
 
 Output Format (Strictly Follow This Structure)
+Rephrased question:
 
-agent's understanding of the question in his own words
-finding 1
-finding 2
-finding 3
+Finding 1:
+
+Finding 2:
+
+Finding 3:
+
 ...
 
 Do not include any additional commentary, metadata, citations list, or tool call logs in the final output.
